@@ -19,11 +19,14 @@ h1{
     padding-bottom: 10px;
 
 }
-p{
+p, section{
     color: black;
 }
+section{
+    margin-top: 20px;
+}
 button{
-    background: rgba(0, 0, 255, 0.63);
+    background: rgba(255, 85, 0, 0.63);
     border-radius: 5px;
     padding: 10px 20px;
     cursor: pointer;
